@@ -1,2 +1,2 @@
-# TEMPLATE_mongo_db_atlas_express
+# MongoDB Atlas & Express 
 A template project for MongoDB Atlas &amp; Express
